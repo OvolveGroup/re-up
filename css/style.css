@@ -1,0 +1,19 @@
+p {font-size: 1.7em;}
+ul.device-items {
+	list-style-type: none;
+}
+ul.device-items li.item {
+	background: #eee;
+	margin: 12px;
+	text-align: center;
+}
+ul.device-items li.item a {
+	text-decoration: none;
+	padding: 35px 0;
+	display: inline-block;
+	color: #333;
+}
+ul.device-items li.item:hover,
+ul.device-items li.item:focus {
+	background: rgba(238, 238, 238, 0.72);
+}
