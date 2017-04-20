@@ -17,3 +17,13 @@ ul.device-items li.item:hover,
 ul.device-items li.item:focus {
 	background: rgba(238, 238, 238, 0.72);
 }
+/* Price */
+.priceout {
+  padding: 7%;
+}
+.priceout .price {
+	font-size: 3.6em;
+}
+.priceout p {
+	padding: 15px 0 0 0;
+}
