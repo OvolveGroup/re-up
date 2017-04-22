@@ -5,7 +5,10 @@
 		"model": "7S",
 		"network":[0,1,4],
 		"size":["32GB","128GB","256GB"],
-		"value":123.12
+		"value":{
+			"working":123.12,
+			"broken":100.12
+		}
 	},
 	{
 		"formfactor":"phone",
@@ -13,55 +16,79 @@
 		"model": "7",
 		"network":[0,1,4],
 		"size":["32GB","128GB","256GB"],
-		"value":123.12
+		"value":{
+			"working":123.12,
+			"broken":100.12
+		}
 	},
 	{
 		"formfactor":"phone",
 		"type":"smartphone",
 		"network":[0,1,4],
 		"size":["32GB","128GB","256GB"],
-		"value":123.12
+		"value":{
+			"working":123.12,
+			"broken":100.12
+		}
 	},
 	{
 		"formfactor":"phone",
 		"type":"smartphone",
 		"network":[0,1,4],
 		"size":["32GB","128GB","256GB"],
-		"value":400.12
+		"value":{
+			"working":123.12,
+			"broken":100.12
+		}
 	},
 	{
 		"formfactor":"phone",
 		"type":"smartphone",
 		"network":[0,1,4],
 		"size":["32GB","128GB","256GB"],
-		"value":123.12
+		"value":{
+			"working":123.12,
+			"broken":100.12
+		}
 	},
 	{
 		"formfactor":"phone",
 		"type":"smartphone",
 		"network":[0,1,4],
 		"size":["32GB","128GB","256GB"],
-		"value":123.12
+		"value":{
+			"working":123.12,
+			"broken":100.12
+		}
 	},
 	{
 		"formfactor":"phone",
 		"type":"smartphone",
 		"network":[0,1,4],
 		"size":["32GB","128GB","256GB"],
-		"value":123.12
+		"value":{
+			"working":123.12,
+			"broken":100.12
+		}
 	},
 	{
 		"formfactor":"phone",
 		"type":"smartphone",
 		"network":[0,1,4],
 		"size":["32GB","128GB","256GB"],
-		"value":123.12
+		"value":{
+			"working":123.12,
+			"broken":100.12
+		}
 	},
 	{
 		"formfactor":"phone",
 		"type":"smartphone",
 		"network":[0,1,4],
 		"size":["32GB","128GB","256GB"],
-		"value":123.12
+		"value":{
+			"working":123.12,
+			"broken":100.12
+		}
 	}
 ]
